@@ -9,6 +9,14 @@ var resetButton = document.querySelector("#reset");
 var easyBtn = document.querySelector("#easyBtn");
 var hardBtn = document.querySelector("#hardBtn");
 
+// window.onload = function(){
+//     document.querySelector(".close").onclick = function(){
+//         this.parentNode.parentNode.parentNode
+//         .removeChild(this.parentNode.parentNode);
+//         return false;
+//     };
+// };
+
 easyBtn.addEventListener("click", function() {
 	easyBtn.classList.add("selected");
 	hardBtn.classList.remove("selected");

@@ -31,6 +31,20 @@ h1 {
 	text-transform: uppercase;
 	padding: 20px 0;
 }
+.alert {
+  margin: 10%;
+  font-size: 1.3em;
+  position: absolute;
+  background-color: #D9EDF7;
+  padding: 10px;
+  border-radius: 12px;
+}
+a {
+	text-align: right;
+	text-decoration: none;
+	text-shadow: 0 1px 0 #fff;
+	float: right;
+}
 
 #colorDisplay {
 	font-size: 200%;
