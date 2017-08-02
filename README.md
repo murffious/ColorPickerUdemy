@@ -17,7 +17,10 @@ A very simple JavaScript based game for getting good at RGB colors. I developed 
  </br>
 
 ### Section 2: ScreenShots </br>
+###### Opening Screen
 ![pasted image at 2017_08_02 03_03 pm](https://user-images.githubusercontent.com/25558342/28895705-afc2263e-7796-11e7-83bb-e8b779c76947.png) </br></br>
-![pasted image at 2017_08_02 03_04 pm](https://user-images.githubusercontent.com/25558342/28895744-e6ac1006-7796-11e7-8cb4-2db2f0252c38.png)
-
+###### Easy mode guessed wrong
+![pasted image at 2017_08_02 03_04 pm](https://user-images.githubusercontent.com/25558342/28895744-e6ac1006-7796-11e7-8cb4-2db2f0252c38.png)</br></br>
+###### Guessed right!
+![pasted image at 2017_08_02 03_28 pm](https://user-images.githubusercontent.com/25558342/28895844-44095a88-7797-11e7-8da7-01c9ca63a766.png)
 
